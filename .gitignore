@@ -1,0 +1,11 @@
+mp312/
+.venv/
+myvenv/
+__pycache__/
+*.pyc
+.DS_Store
+.git/
+.idea/
+.vscode/
+.dockerignore
+ISL_landmark.csv
